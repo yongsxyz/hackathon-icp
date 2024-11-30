@@ -1,0 +1,7 @@
+service: () -> {
+    getProfilesByLink: (text) -> (variant {Ok:vec record {bio:text; linkedin:text; twitter:text; banner_url:text; instagram:text; avatar_url:text; link:text; name:text; typechain:text; facebook:text; address:text; youtube:text}; Err:text}) query;
+    getStatusProvider: () -> (text) query;
+    get_my_profile: () -> (variant {Ok:record {bio:text; linkedin:text; twitter:text; banner_url:text; instagram:text; avatar_url:text; link:text; name:text; typechain:text; facebook:text; address:text; youtube:text}; Err:text}) query;
+    list_profiles: () -> (variant {Ok:vec record {text; record {bio:text; linkedin:text; twitter:text; banner_url:text; instagram:text; avatar_url:text; link:text; name:text; typechain:text; facebook:text; address:text; youtube:text}}; Err:text}) query;
+    save_my_profile: (text, text, text, text, text, text, text, text, text, text, text) -> (variant {Ok:record {bio:text; linkedin:text; twitter:text; banner_url:text; instagram:text; avatar_url:text; link:text; name:text; typechain:text; facebook:text; address:text; youtube:text}; Err:text});
+}
