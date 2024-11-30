@@ -7,7 +7,7 @@ Backend
 https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=xympx-vqaaa-aaaam-qb25q-cai
 
 Frontend
-https://cf6ky-zaaaa-aaaam-qccuq-cai.icp0.io/app
+https://cf6ky-zaaaa-aaaam-qccuq-cai.icp0.io/
 
 IC_SIWE
 https://github.com/kristoferlund/ic-siwe
