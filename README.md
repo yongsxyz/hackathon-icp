@@ -1,3 +1,22 @@
+During this hackathon, I have learned a lot about the Internet Computer Protocol (ICP) and felt greatly supported by the answers provided by Sir Kristofer. The project work began on November 15th, and I spent about a week completing the frontend. Thank you to everyone who has supported me.
+
+Youtube:
+https://www.youtube.com/watch?v=iOWgOy-3N_Y&t=412s
+
+Backend 
+https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=xympx-vqaaa-aaaam-qb25q-cai
+
+Frontend
+https://cf6ky-zaaaa-aaaam-qccuq-cai.icp0.io/app
+
+IC_SIWE
+https://github.com/kristoferlund/ic-siwe
+
+IC SIWS 
+https://github.com/kristoferlund/ic-siws
+
+![gaskeun wak](https://github.com/user-attachments/assets/603d6c29-c094-4420-adfb-95d639360d3f)
+
 # **LinkFinity: One Link for All Your Digital Identities**
 
 **LinkFinity** is a **Link Bio** platform powered by Web3 that allows you to integrate and showcase your entire digital ecosystem. From digital wallets, NFTs, social media, gaming platforms, to e-commerce—all seamlessly combined into a single smart link.
